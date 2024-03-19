@@ -10,6 +10,8 @@ The analysis code has been tested with python 3.11 and 3.12. Package requirement
 
 ## Datasets
 
+Original, publicly available datasets are not included as part of this repository. Instead, `data/raw/` contains directories with `citation.md` files citing the relevant raw data. Processed ISSM outputs (Dawson et al., 2022) are provided in `data/generated/`.
+
 Dawson, E.J., Schroeder, D.M., Chu, W. et al. Ice mass loss sensitivity to the Antarctic ice sheet basal thermal state. *Nat Commun* **13**, 4957 (2022). [https://doi.org/10.1038/s41467-022-32632-2](https://doi.org/10.1038/s41467-022-32632-2)
 
 Livingstone, S.J., Li, Y., Rutishauser, A. et al. Subglacial lakes and their changing role in a warming climate. *Nat Rev Earth Environ* **3**, 106–124 (2022). [https://doi.org/10.1038/s43017-021-00246-9](https://doi.org/10.1038/s43017-021-00246-9)
