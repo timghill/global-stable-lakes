@@ -1,0 +1,65 @@
+Tally,Lat. oN,Lon. oE,Observation,Method of identification,Lake Type,Name / Location,Ice thickness m,B19 Confidence
+1,78,-48,0,Flat ice-surface anomoly,,,,
+2,78.005022,-68.393971,3,RES,Stable,L2,803,
+3,77.9695,-68.440875,1,RES,Stable,L1,753,
+4,81.16,-16.58,0,ArcticDEM ice-surface elevation change,Active,Flade Isblink ice cap,540,
+5,67.611136,-48.709,0,ArcticDEM ice-surface elevation change,Active,Inuppaat Quuat,1200,
+6,63.541856,-48.450597,0,ArcticDEM ice-surface elevation change,Active,"Sioqqap Sermia, [SS1]",722,
+7,63.260248,-48.206633,0,ArcticDEM ice-surface elevation change,Active,"Sioqqap Sermia, [SS2]",1277,
+8,77.2084115133622,-60.3535714680461,1,RES,Stable,Camp Century (borehole),1389,Low
+9,77.2126446004474,-60.1561721143728,1,RES,Stable,Camp Century (borehole),1426,High
+10,78.766,-64.229,1,RES,Stable,Hiawatha Gletsjer,743,High
+11,78.3854,-59.8756,1,RES,Stable,Hiawatha Gletsjer,1562,Very high
+12,77.989276,-64.368907,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1035,Medium
+13,77.9522035926476,-64.4340961625276,1,RES,Stable,Qeqertaarsuusarsuup Sermia,994,Medium
+14,77.9958847717389,-64.8818794296146,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1002,Medium
+15,78.1554912363472,-64.5243721078478,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1084,Medium
+16,77.7362,-63.3279,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1030,Medium
+17,78.7641247586869,-60.7729742882186,1,RES,Stable,Sermersuaq,1362,High
+18,78.7439821509769,-60.813268594236,1,RES,Stable,Sermersuaq,1362,Medium
+19,78.8313,-59.0156,1,RES,Stable,Sermersuaq (Humboldt),1604,High
+20,78.8164507262237,-59.0460981172666,1,RES,Stable,Sermersuaq (Humboldt),1589,Very high
+21,77.0826,-65.1325,1,RES,Stable,Sermiarsupaluk,299,Medium
+22,80.6923,-55.9666,1,RES,Stable,Petermann Gletsjer,788,High
+23,80.045263287037,-45.2150805277777,1,RES,Stable,Ryder Gletsjer,1859,Medium
+24,80.0677602499999,-44.9871617499999,1,RES,Stable,Ryder Gletsjer,1828,Medium
+25,80.6500263431811,-47.9509168957302,1,RES,Stable,Ryder Gletsjer,1059,Medium
+26,80.6013651433241,-47.8812394449412,1,RES,Stable,Ryder Gletsjer,1263,Medium
+27,80.3462153665301,-44.2305909746582,1,RES,Stable,Ryder Gletsjer,1741,Medium
+28,80.3322790112097,-44.3616971191451,1,RES,Stable,Ryder Gletsjer,1787,High
+29,80.59,-41.9457,1,RES,Stable,C.H. Ostenfeld Gletsjer,1509,High
+30,80.9981,-40.3907,1,RES,Stable,C.H. Ostenfeld Gletsjer,1335,High
+31,80.7952128677229,-43.0576821258313,1,RES,Stable,C.H. Ostenfeld Gletsjer,1124,Medium
+32,80.7177885164059,-43.9841527770436,1,RES,Stable,C.H. Ostenfeld Gletsjer,1313,High
+33,81.5815166594388,-38.7225391459342,1,RES,Stable,Hobbs Gletsjer,698,Low
+34,81.5749419003362,-38.6468383918047,1,RES,Stable,Hobbs Gletsjer,771,Medium
+35,81.5686826343908,-38.5784789213674,1,RES,Stable,Hobbs Gletsjer,787,High
+36,81.38504022891,-38.295474921618,1,RES,Stable,Marie Sophie Gletsjer,875,Medium
+37,81.4319505065885,-38.8092289202787,1,RES,Stable,Marie Sophie Gletsjer,803,High
+38,80.655,-31.0719,1,RES,Stable,Hagen Brae,925,High
+39,80.2042,-28.4621,1,RES,Stable,Spaltegletsjer/ NEGIS,763,Very high
+40,79.8799,-28.9454,1,RES,Stable,Spaltegletsjer/ NEGIS,958,Medium
+41,80.0311,-29.3337,1,RES,Stable,Spaltegletsjer/ NEGIS,1038,Medium
+42,80.05168,-29.383288,1,RES,Stable,Spaltegletsjer/ NEGIS,1038,High
+43,80.067824,-29.425591,1,RES,Stable,Spaltegletsjer/ NEGIS,1038,Medium
+44,69.0403,-36.9927,1,RES,Stable,Kangerlussuaq Gletsjer,2228,Medium
+45,69.7302,-34.6456,1,RES,Stable,Kangerlussuaq Gletsjer,1308,Medium
+46,70.0061,-35.4855,1,RES,Stable,Kangerlussuaq Gletsjer,2553,High
+47,71.930383,-36.379639,1,RES,Stable,Daugaard-Jensen Gletsjer,2642,High
+48,72.12369,-31.206992,1,RES,Stable,Daugaard-Jensen Gletsjer,1220,Medium
+49,72.320483,-31.837748,1,RES,Stable,Daugaard-Jensen Gletsjer,1920,Medium
+50,72.8315846422042,-36.1688960661414,1,RES,Stable,Hamberg Gletsjer,2675,Very high
+51,72.8297310387917,-36.1991788438492,1,RES,Stable,Hamberg Gletsjer,2782,Very high
+52,74.2747235023792,-33.3942258177601,1,RES,Stable,Skrabrae,2080,High
+53,74.2811570185619,-33.5324149070651,1,RES,Stable,Skrabrae,2134,Medium
+54,74.2830510989359,-33.5759654132738,1,RES,Stable,Skrabrae,2159,High
+55,70.6030251782141,-35.401035690466,1,RES,Stable,Vestfjord Gletsjer,2702,Low
+56,70.5907971848205,-35.569649350378,1,RES,Stable,Vestfjord Gletsjer,2765,High
+57,70.6187166666666,-32.8210883333333,1,RES,Stable,Vestfjord Gletsjer,1950,Medium
+58,70.6831666666666,-32.8084433333333,1,RES,Stable,Vestfjord Gletsjer,1965,Medium
+59,65.1242,-44.4023,1,RES,Stable,Apuseeq,1652,Medium
+60,69.1098431881785,-42.0551585311891,1,RES,Stable,Sermeq Kujalleq (Jakobshavn),2628,Very high
+61,69.1080467371603,-41.9543698855634,1,RES,Stable,Sermeq Kujalleq (Jakobshavn),2621,Low
+62,67.18,-50.188,0,ArcticDEM ice-surface elevation change & outburst flood.,Active,Isunguata Sermia 1,325,
+63,67.178,-50.149,0,ArcticDEM ice-surface elevation change & outburst flood.,Active,Isunguata Sermia 2,370,
+64,67.18,-50.128,0,ArcticDEM ice-surface elevation change & outburst flood.,Active,Isunguata Sermia 3,450,

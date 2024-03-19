@@ -1,0 +1,65 @@
+Tally,Lat. oN,Lon. oE,Observation,Method of identification,Lake Type,Name / Location,Ice thickness m
+1,78,-48,0,Flat ice-surface anomoly,,,
+2,78.01,-68.39,3,RES,Stable,L2,803
+3,77.97,-68.44,1,RES,Stable,L1,753
+4,81.16,-16.58,0,ArcticDEM ice-surface elevation change,Active,Flade Isblink ice cap,540
+5,67.61,-48.71,0,ArcticDEM ice-surface elevation change,Active,Inuppaat Quuat,1200
+6,63.54,-48.45,0,ArcticDEM ice-surface elevation change,Active,"Sioqqap Sermia, [SS1]",722
+7,63.26,-48.21,0,ArcticDEM ice-surface elevation change,Active,"Sioqqap Sermia, [SS2]",1277.0
+8,77.21,-60.35,1,RES,Stable,Camp Century (borehole),1389
+9,77.21,-60.16,1,RES,Stable,Camp Century (borehole),1426
+10,78.77,-64.23,1,RES,Stable,Hiawatha Gletsjer,743
+11,78.39,-59.88,1,RES,Stable,Hiawatha Gletsjer,1562
+12,77.99,-64.37,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1035
+13,77.95,-64.43,1,RES,Stable,Qeqertaarsuusarsuup Sermia,994
+14,78.00,-64.88,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1002
+15,78.16,-64.52,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1084
+16,77.74,-63.33,1,RES,Stable,Qeqertaarsuusarsuup Sermia,1030
+17,78.76,-60.77,1,RES,Stable,Sermersuaq,1362
+18,78.74,-60.81,1,RES,Stable,Sermersuaq,1362
+19,78.83,-59.02,1,RES,Stable,Sermersuaq (Humboldt),1604
+20,78.82,-59.05,1,RES,Stable,Sermersuaq (Humboldt),1589
+21,77.08,-65.13,1,RES,Stable,Sermiarsupaluk,299
+22,80.69,-55.97,1,RES,Stable,Petermann Gletsjer,788
+23,80.05,-45.22,1,RES,Stable,Ryder Gletsjer,1859
+24,80.07,-44.99,1,RES,Stable,Ryder Gletsjer,1828
+25,80.65,-47.95,1,RES,Stable,Ryder Gletsjer,1059
+26,80.60,-47.88,1,RES,Stable,Ryder Gletsjer,1263
+27,80.35,-44.23,1,RES,Stable,Ryder Gletsjer,1741
+28,80.33,-44.36,1,RES,Stable,Ryder Gletsjer,1787
+29,80.59,-41.95,1,RES,Stable,C.H. Ostenfeld Gletsjer,1509
+30,81.00,-40.39,1,RES,Stable,C.H. Ostenfeld Gletsjer,1335
+31,80.80,-43.06,1,RES,Stable,C.H. Ostenfeld Gletsjer,1124
+32,80.72,-43.98,1,RES,Stable,C.H. Ostenfeld Gletsjer,1313
+33,81.58,-38.72,1,RES,Stable,Hobbs Gletsjer,698
+34,81.57,-38.65,1,RES,Stable,Hobbs Gletsjer,771
+35,81.57,-38.58,1,RES,Stable,Hobbs Gletsjer,787
+36,81.39,-38.30,1,RES,Stable,Marie Sophie Gletsjer,875
+37,81.43,-38.81,1,RES,Stable,Marie Sophie Gletsjer,803
+38,80.66,-31.07,1,RES,Stable,Hagen Bræ,925
+39,80.20,-28.46,1,RES,Stable,Spaltegletsjer/ NEGIS,763
+40,79.88,-28.95,1,RES,Stable,Spaltegletsjer/ NEGIS,958
+41,80.03,-29.33,1,RES,Stable,Spaltegletsjer/ NEGIS,1038
+42,80.05,-29.38,1,RES,Stable,Spaltegletsjer/ NEGIS,1038
+43,80.07,-29.43,1,RES,Stable,Spaltegletsjer/ NEGIS,1038
+44,69.04,-36.99,1,RES,Stable,Kangerlussuaq Gletsjer,2228
+45,69.73,-34.65,1,RES,Stable,Kangerlussuaq Gletsjer,1308
+46,70.01,-35.49,1,RES,Stable,Kangerlussuaq Gletsjer,2553
+47,71.93,-36.38,1,RES,Stable,Daugaard-Jensen Gletsjer,2642
+48,72.12,-31.21,1,RES,Stable,Daugaard-Jensen Gletsjer,1220
+49,72.32,-31.84,1,RES,Stable,Daugaard-Jensen Gletsjer,1920
+50,72.83,-36.17,1,RES,Stable,Hamberg Gletsjer,2675
+51,72.83,-36.20,1,RES,Stable,Hamberg Gletsjer,2782
+52,74.27,-33.39,1,RES,Stable,Skråbræ,2080
+53,74.28,-33.53,1,RES,Stable,Skråbræ,2134
+54,74.28,-33.58,1,RES,Stable,Skråbræ,2159
+55,70.60,-35.40,1,RES,Stable,Vestfjord Gletsjer,2702
+56,70.59,-35.57,1,RES,Stable,Vestfjord Gletsjer,2765
+57,70.62,-32.82,1,RES,Stable,Vestfjord Gletsjer,1950
+58,70.68,-32.81,1,RES,Stable,Vestfjord Gletsjer,1965
+59,65.12,-44.40,1,RES,Stable,Apuseeq,1652
+60,69.11,-42.06,1,RES,Stable,Sermeq Kujalleq (Jakobshavn),2628
+61,69.11,-41.95,1,RES,Stable,Sermeq Kujalleq (Jakobshavn),2621
+62,67.18,-50.188,0,ArcticDEM ice-surface elevation change & outburst flood.,Active,Isunguata Sermia 1,325
+63,67.178,-50.149,0,ArcticDEM ice-surface elevation change & outburst flood.,Active,Isunguata Sermia 2,370
+64,67.18,-50.128,0,ArcticDEM ice-surface elevation change & outburst flood.,Active,Isunguata Sermia 3,450

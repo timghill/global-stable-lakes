@@ -1,0 +1,677 @@
+Tally,Lat.  oN,Lon. oE,Observation,Method of identification,Lake Type,Name,Ice thickness m
+1,-78.10,88.50,1,RES,Stable,Sovetskaya Lake,4200
+2,-78.15,104.50,3,RES,Stable,Lake Vostok,3945
+3,-76.57,124.80,1,RES,Stable,SPRI-3,3621
+4,-73.28,157.28,1,RES,Stable,SPRI-4,2827
+5,-77.20,119.27,1,RES,Stable,SPRI-5,3835
+6,-74.07,125.02,1,RES,Stable,Concordia Lake,4055
+7,-88.30,-150.00,1,RES,Stable,SPRI-7,2807
+8,-72.31,123.94,1,RES,Stable,SPRI-8,3254
+9,-76.80,129.70,2,RES + flat surface anomaly,Stable,SPRI-9/16/20,3410
+10,-75.94,127.41,1,RES,Stable,SPRI-10,3449
+11,-75.81,126.56,1,RES,Stable,SPRI-11/ITL-7,3634
+12,-75.65,125.60,1,RES,Stable,SPRI-12,3399
+13,-75.84,122.66,1,RES,Stable,SPRI-13/14/ITL-10,3427
+14,-75.14,126.98,1,RES,Stable,SPRI-15,3447
+15,-73.45,119.54,1,RES,Stable,SPRI-17,3924
+16,-76.24,135.34,1,RES,Stable,Adventure Trench Lake,3780
+17,-79.93,148.27,1,RES,Stable,SPRI-19,2333
+18,-74.91,128.90,1,RES,Stable,SPRI-21,3890
+19,-75.97,124.95,1,RES,Stable,SPRI-22,3168
+20,-75.78,125.97,1,RES,Stable,SPRI-23,3162
+21,-75.69,126.48,1,RES,Stable,SPRI-24,3650
+22,-74.97,124.70,1,RES,Stable,SPRI-25/76,3045
+23,-75.61,120.39,1,RES,Stable,SPRI-26,3057
+24,-73.40,126.90,1,RES,Stable,SPRI-27,4010
+25,-73.17,128.35,2,RES (ICECAP) + flat ice surface,Stable,SPRI-28/63,4050
+26,-69.71,140.95,1,RES,Stable,SPRI-29,2269
+27,-68.44,136.87,1,RES,Stable,SPRI-30/58,4117
+28,-75.82,129.03,1,RES,Stable,SPRI-31,3069
+29,-76.40,126.03,1,RES,Stable,SPRI-32,3500
+30,-74.03,118.50,1,RES,Stable,SPRI-33,4084
+31,-74.46,119.37,1,RES,Stable,Aurora Lake,4066
+32,-77.12,126.30,1,RES,Stable,SPRI-35,3741
+33,-71.81,128.35,1,RES,Stable,SPRI-36,2994
+34,-71.79,128.20,1,RES,Stable,SPRI-37,3021
+35,-74.04,139.92,1,RES,Stable,SPRI-38,3285
+36,-75.73,148.86,1,RES,Stable,SPRI-39,3010
+37,-88.50,120.00,1,RES,Stable,SPRI-40,3100
+38,-87.00,75.00,1,RES,Stable,SPRI-41,2943
+39,-76.19,125.18,2,RES + flat ice surface,Stable,SPRI-42/43,3884
+40,-81.84,133.47,1,RES,Stable,SPRI-44,2641
+41,-79.43,154.13,1,RES,Stable,SPRI-45,2036
+42,-77.40,100.40,1,RES,Stable,SPRI-46,3709
+43,-76.80,97.50,1,RES,Stable,SPRI-47,3715
+44,-88.73,64.52,1,RES,Stable,SPRI-48,2997
+45,-88.36,70.54,1,RES,Stable,SPRI-49,3027
+46,-88.37,112.68,1,RES,Stable,SPRI-50,3068
+47,-87.61,148.62,1,RES,Stable,SPRI-51,3062
+48,-88.71,136.88,1,RES,Stable,SPRI-52,3070
+49,-88.42,144.50,1,RES,Stable,SPRI-53,2741
+50,-77.10,92.50,1,RES,Stable,SPRI-54/59,3784
+51,-78.00,99.00,1,RES,Stable,SPRI-55,3399
+52,-71.13,155.68,1,RES,Stable,SPRI-56,2347
+53,-70.47,151.60,1,RES,Stable,SPRI-57,2418
+54,-76.80,93.50,1,RES,Stable,SPRI-60,3426
+55,-79.15,144.30,1,RES,Stable,SPRI-61,2580
+56,-72.74,129.41,1,RES,Stable,SPRI-62,3828
+57,-75.76,119.71,1,RES,Stable,SPRI-64,3574
+58,-76.07,118.11,1,RES,Stable,SPRI-65,3733
+59,-78.00,118.60,1,RES,Stable,SPRI-66,3341
+60,-79.09,-113.50,1,RES,Stable,SPRI-67,2700
+61,-82.06,-98.95,1,RES,Stable,SPRI-68,2894
+62,-79.04,67.73,1,RES,Stable,SPRI-69,2500
+63,-89.97,-161.56,3,RES + seismics,Stable,South Pole Lake (SPRI-70),2857
+64,-82.99,-94.92,1,RES,Stable,SPRI-71,3200
+65,-86.36,-106.17,1,RES,Stable,SPRI-72,2814
+66,-86.43,-105.56,1,RES,Stable,SPRI-73,2906
+67,-86.77,-111.26,1,RES,Stable,SPRI-74,3960
+68,-87.77,-125.30,1,RES,Stable,SPRI-75,2315
+69,-74.92,124.19,1,RES,Stable,SPRI-77,3925
+70,-78.99,-90.57,3,RES + seismics,Stable,Ellsworth Subglacial Lake,3400
+71,-75.46,121.63,1,RES,Stable,ITL-1,3570
+72,-75.62,121.61,1,RES,Stable,ITL-2,3513
+73,-75.42,122.32,1,RES,Stable,ITL-3,3030
+74,-74.79,122.28,1,RES,Stable,ITL-4,3769
+75,-75.35,125.02,1,RES,Stable,ITL-5/ OIA-1,3150
+76,-75.95,126.03,1,RES,Stable,ITL 6,2975
+77,-74.91,121.73,1,RES,Stable,ITL 8,3416
+78,-75.02,125.92,1,RES,Stable,ITL 9,3461
+79,-75.61,117.69,1,RES,Stable,ITL 11,4457
+80,-74.67,116.42,1,RES,Stable,ITL 12,4155
+81,-74.88,116.94,1,RES,Stable,ITL 13,4460
+82,-74.16,127.94,1,RES,Stable,Vincennes Lake,4028
+83,-73.70,119.72,1,RES,Stable,ITL 17,4034
+84,-77.63,115.19,1,RES,Stable,ITL 18,3500
+85,-74.30,26.94,1,RES,Stable,M-310,2427
+86,-80.90,14.47,1,RES,Stable,M-511,2340
+87,-75.17,27.29,1,RES,Stable,M-511,2770
+88,-75.75,33.09,1,RES,Stable,M-610,2560
+89,-77.50,37.43,1,RES,Stable,M-2011,3125
+90,-73.42,39.89,1,RES,Stable,M-2710,2180
+91,-75.46,27.03,1,RES,Stable,M-2713,2830
+92,-77.70,44.46,1,RES,Stable,M-3112,2860
+93,-77.96,32.62,1,RES,Stable,M-3710,3070
+94,-82.34,77.89,1,RES,Stable,M-3010,3575
+95,-77.96,62.73,1,RES,Stable,M-3510,2834
+96,-77.70,45.77,1,RES,Stable,M-3112,2640
+97,-77.24,43.70,1,RES,Stable,M-3809,3130
+98,-72.78,58.80,1,RES,Stable,M-3809,1750
+99,-72.10,56.77,1,RES,Stable,M-3211,2535
+100,-80.30,45.83,1,RES,Stable,SAE35,3240
+101,-77.10,144.66,1,RES,Stable,WLK-6,3413
+102,-76.71,145.10,1,RES,Stable,WLK-14,3503
+103,-76.43,144.29,1,RES,Stable,WLK-12,3547
+104,-76.12,144.75,1,RES,Stable,WLK-24,3557
+105,-75.09,126.41,1,RES,Stable,WLK-17,3480
+106,-80.41,139.23,1,RES,Stable,DCS/DCSx/X02b - X02e,3059
+107,-81.84,120.08,1,RES,Stable,DCS/DCSx/X01c,2933
+108,-80.65,137.55,1,RES,Stable,DCS/DCSx/X01d,2981
+109,-75.85,117.99,1,RES,Stable,LVS-12,4661
+110,-79.30,88.88,1,RES,Stable,LVS-9,3890
+111,-77.98,91.43,1,RES,Stable,LVS-13,3787
+112,-77.38,91.08,1,RESE114C113:V114BJ113:V113,Stable,90oE lake,4074
+113,-76.75,94.57,1,RES,Stable,C25SAE1,3500
+114,-77.08,94.83,1,RES,Stable,C25SAE2,3560
+115,-80.61,-123.99,0,radar interferrometry and ICESat,Active,Bindschadler5,2242
+116,-81.45,-120.13,0,radar interferrometry and ICESat,Active,Kamb10,2393
+117,-74.00,133.27,0,Ice-surface elevation change: (ERS-2) + RES,Active,L1,4200
+118,-75.94,135.00,0,Ice-surface elevation change: (ERS-2),Active,U1,3933
+119,-76.34,135.77,0,Ice-surface elevation change: (ERS-2),Active,U2,3231
+120,-76.68,135.93,0,Ice-surface elevation change: (ERS-2),Active,U3,2687
+121,-78.58,107.13,1,RES,Stable,,3635
+122,-77.23,103.72,1,RES,Stable,,3720
+123,-77.85,107.53,1,RES,Stable,,2915
+124,-77.47,107.26,1,RES,Stable,,3515
+125,-77.30,107.01,1,RES,Stable,,3435
+126,-77.20,107.01,1,RES,Stable,,3305
+127,-76.94,106.70,1,RES,Stable,LVS-8,3540
+128,-76.66,106.02,1,RES,Stable,,3735
+129,-76.60,106.02,1,RES,Stable,,3400
+130,-78.33,104.59,1,RES,Stable,,3605
+131,-78.08,107.35,1,RES,Stable,,3295
+132,-78.05,107.80,1,RES,Stable,,3345
+133,-77.67,107.51,1,RES,Stable,,2740
+134,-77.60,107.51,1,RES,Stable,,3135
+135,-77.58,107.51,1,RES,Stable,,3100
+136,-77.98,103.99,1,RES,Stable,,3280
+137,-78.60,105.37,1,RES,Stable,,3600
+138,-78.67,105.86,1,RES,Stable,,3320
+139,-77.88,103.62,1,RES,Stable,,3650
+140,-77.80,103.76,1,RES,Stable,,3740
+141,-76.91,101.96,1,RES,Stable,,3715
+142,-76.70,101.43,1,RES,Stable,,3835
+143,-76.29,101.74,1,RES,Stable,,3720
+144,-78.12,104.30,1,RES,Stable,,3190
+145,-77.25,106.51,1,RES,Stable,LVS-11,3740
+146,-77.50,103.36,1,RES,Stable,,3720
+147,-75.91,103.86,1,RES,Stable,,3770
+148,-78.58,105.00,1,RES,Stable,,3880
+149,-78.53,105.59,1,RES,Stable,,3740
+150,-73.62,97.29,1,RES,Stable,Komsomolskoe Subglacial lake,3590
+151,-69.75,95.54,1,RES,Stable,Pionerskoe Subglacial Lake,2400
+152,-77.42,150.11,1,RES,Stable,WLK-4,2686
+153,-76.88,148.93,1,RES,Stable,WLK-5,2990
+154,-77.16,153.72,1,RES,Stable,WLK-7,2712
+155,-77.00,150.95,1,RES,Stable,WLK-8,2942
+156,-77.19,150.02,1,RES,Stable,WLK-9,2774
+157,-76.88,150.21,1,RES,Stable,WLK-10,3018
+158,-77.32,147.75,1,RES,Stable,WLK-11,3025
+159,-75.76,139.04,1,RES,Stable,WLK-13,2873
+160,-75.23,126.59,1,RES,Stable,Horseshoe Lake (WLK-15),3375
+161,-74.57,126.28,1,RES,Stable,WLK-16,3697
+162,-74.89,127.56,1,RES,Stable,WLK-18,3510
+163,-76.02,137.35,1,RES,Stable,WLK-19,2985
+164,-75.43,126.84,1,RES,Stable,WLK-21,3488
+165,-76.24,136.88,1,RES,Stable,WLK-22,2906
+166,-76.13,137.33,1,RES,Stable,WLK-23,2969
+167,-76.00,132.38,1,RES,Stable,WLK-26,2703
+168,-75.65,135.75,1,RES,Stable,WLK-27,3442
+169,-76.37,137.95,1,RES,Stable,WLK-28,2612
+170,-76.15,143.81,1,RES,Stable,WLK-29,3400
+171,-76.49,146.04,1,RES,Stable,WLK-30,3399
+172,-76.57,138.75,1,RES,Stable,WLK-31,2622
+173,-76.59,138.46,1,RES,Stable,WLK-32,2616
+174,-77.29,147.24,1,RES,Stable,WLK-33,3062
+175,-76.80,148.30,1,RES,Stable,WLK-34,3175
+176,-76.67,150.14,1,RES,Stable,WLK-35,3037
+177,-76.99,149.68,1,RES,Stable,WLK-36,2947
+178,-76.49,150.47,1,RES,Stable,WLK-37,3050
+179,-77.08,150.61,1,RES,Stable,WLK-38,2900
+180,-76.90,150.92,1,RES,Stable,WLK-39,2917
+181,-77.28,150.93,1,RES,Stable,WLK-40,2743
+182,-77.12,151.79,1,RES,Stable,WLK-41,2778
+183,-77.31,152.49,1,RES,Stable,WLK-42,2855
+184,-75.61,119.23,1,RES,Stable,LVS-1,4095
+185,-78.66,89.80,1,RES,Stable,LVS-2,3706
+186,-75.71,118.71,1,RES,Stable,LVS-3,3867
+187,-77.46,103.32,1,RES,Stable,LVS-4,3664
+188,-77.68,103.30,1,RES,Stable,LVS-5,3623
+189,-78.02,108.16,1,RES,Stable,LVS-6,3306
+190,-77.06,102.10,1,RES,Stable,LVS-14,3229
+191,-89.76,-143.83,1,RES,Stable,PPT-1,2866
+192,-88.91,-120.39,1,RES,Stable,PPT-2,3095
+193,-89.85,-86.10,1,RES,Stable,PPT-3,2784
+194,-85.22,-150.46,1,RES,Stable,PPT-4,1086
+195,-85.16,-149.74,1,RES,Stable,PPT-6,1134
+196,-85.08,-144.78,1,RES,Stable,PPT-7,1157
+197,-84.97,-141.81,1,RES,Stable,PPT-8,1801
+198,-84.90,-150.79,1,RES,Stable,PPT-9,1094
+199,-84.75,-150.00,1,RES,Stable,PPT-11,1219
+200,-89.90,30.04,1,RES,Stable,PPT-12,2888
+201,-84.87,-144.12,1,RES,Stable,PPT-15,1654
+202,-84.66,-149.68,0,"RES + Surface elevation change: ICESat (2003-2009), GPS (2009-2013) + CryoSat-2 (2010-2016)",Active,PPT-16             (Lake Mercer) (Mercer2),1149
+203,-89.48,-13.77,1,RES,Stable,PPT-17,2911
+204,-88.47,2.28,1,RES,Stable,PPT-18,3241
+205,-89.21,-150.01,1,RES,Stable,PPT-19,2809
+206,-88.93,-149.24,1,RES,Stable,PPT-20,2113
+207,-89.42,-141.19,1,RES,Stable,PPT-21,2476
+208,-88.31,-140.85,1,RES,Stable,PPT-22,3002
+209,-88.49,-139.78,1,RES,Stable,PPT-23,2990
+210,-89.57,-111.22,1,RES,Stable,PPT-25,3015
+211,-89.33,-126.29,1,RES,Stable,PPT-26,3032
+212,-89.61,-103.87,1,RES,Stable,PPT-28,2972
+213,-89.43,-21.36,1,RES,Stable,PPT-29,2827
+214,-89.45,-49.28,1,RES,Stable,PPT-30,2959
+215,-88.51,-128.95,1,RES,Stable,PPT-31,2871
+216,-89.34,-78.71,1,RES,Stable,PPT-32,2927
+217,-84.77,-143.12,1,RES,Stable,PPT-33,1150
+218,-88.26,7.61,1,RES,Stable,PPT-35,3688
+219,-89.32,-83.34,1,RES,Stable,PPT-36,2879
+220,-89.25,-58.47,1,RES,Stable,PPT-37,2870
+221,-88.96,-13.71,1,RES,Stable,PPT-38,2684
+222,-89.17,-78.86,1,RES,Stable,PPT-39,3090
+223,-88.41,-117.81,1,RES,Stable,PPT-40,2742
+224,-88.61,-110.59,1,RES,Stable,PPT-41,3067
+225,-89.05,-80.30,1,RES,Stable,PPT-42,2821
+226,-88.36,-116.90,1,RES,Stable,PPT-43,2768
+227,-89.04,-43.83,1,RES,Stable,PPT-44,2989
+228,-82.40,14.28,2,RES + ice-surface flat spot,Stable,Recovery A,3500
+229,-82.85,18.13,2,RES + ice-surface flat spot,Stable,Recovery B,3500
+230,-84.31,21.37,0,Ice-surface flat spot,Stable,Recovery C,2687
+231,-84.99,21.61,0,Ice-surface flat spot,Stable,Recovery D,3100
+232,-84.60,-154.19,0,"Surface elevation change: ICESat (2003-2009), GPS (2009-2013) + CryoSat-2 (2010-2016)",Active,Mercer1,839
+233,-83.73,-157.42,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Whillans1          (Lake Engelhardt),638
+234,-84.04,-160.27,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,Whillans2a (L12),759
+235,-84.34,-158.20,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,Whillans2b (L10),763
+236,-84.24,-153.69,3,"Surface elevation change: ICESat (2003-2009), GPS (2009-2013) + CryoSat-2 (2010-2016)",Active,Whillans3          (Whillans Subglacial Lale),798
+237,-84.37,-148.72,0,"Surface elevation change: ICESat (2003-2009), GPS (2009-2013) + CryoSat-2 (2010-2016)",Active,Whillans4          (Lake Conway),886
+238,-81.03,148.30,0,Ice surface elevation change (ICESat),Active,Byrd1 (DL),2032
+239,-80.68,146.89,0,Ice surface elevation change (ICESat),Active,Byrd2 (UL),2161
+240,-75.03,121.56,1,RES,Stable,ITL-19,3187
+241,-75.06,119.85,1,RES,Stable,ITL-20,3375
+242,-74.85,121.44,1,RES,Stable,ITL-21,3312
+243,-75.02,122.17,1,RES,Stable,ITL-22/OIA-34a,3062
+244,-74.07,120.15,1,RES,Stable,ITL-23,3875
+245,-76.17,128.00,1,RES,Stable,ITL-24,2936
+246,-76.15,127.19,1,RES,Stable,ITL-25,2881
+247,-76.13,126.69,1,RES,Stable,ITL-26,2856
+248,-76.13,126.56,1,RES,Stable,ITL-27,2910
+249,-76.07,125.06,1,RES,Stable,ITL-28,4300
+250,-84.14,-61.34,0,Surface elevation change (ICESat),Active,Academy1 (Foundation 1),1194
+251,-84.54,-57.45,0,Surface elevation change (ICESat),Active,Academy2 (Foundation 2),1700
+252,-84.61,-59.08,0,Surface elevation change (ICESat),Active,Academy3 (Foundation3),1357
+253,-84.81,-55.73,0,Surface elevation change (ICESat),Active,Academy4 (Foundation 4),1955
+254,-84.84,-53.70,0,Surface elevation change (ICESat),Active,Academy5 (Foundation 5),1972
+255,-85.32,-55.22,0,Surface elevation change (ICESat),Active,Academy6 (Foundation 6),1832
+256,-85.57,-53.72,0,Surface elevation change (ICESat),Active,Academy7 (Foundation 7),2010
+257,-85.65,-52.93,0,Surface elevation change (ICESat),Active,Academy8 (Foundation 8),2064
+258,-85.87,-52.23,0,Surface elevation change (ICESat),Active,Academy9 (Foundation 9),2174
+259,-85.77,-51.00,0,Surface elevation change (ICESat),Active,Academy10 (Foundation 10),2356
+260,-85.80,-48.41,0,Surface elevation change (ICESat),Active,Academy11 (Foundation 11),2595
+261,-85.71,-45.38,0,Surface elevation change (ICESat),Active,Academy12 (Foundation 12),2658
+262,-85.64,-42.41,0,Surface elevation change (ICESat),Active,Academy13 (Foundation 13),2710
+263,-85.78,-39.57,0,Surface elevation change (ICESat),Active,Academy14 (Foundation 14),2559
+264,-86.02,-37.69,0,Surface elevation change (ICESat),Active,Academy15 (Foundation 15),2453
+265,-85.99,-35.70,0,Surface elevation change (ICESat),Active,Academy16 (Foundation 16),2364
+266,-80.35,-131.50,0,Surface elevation change (ICESat),Active,Bindschadler1,1855
+267,-79.95,-130.20,0,Surface elevation change (ICESat),Active,Bindschadler2,2105
+268,-80.03,-126.65,0,Surface elevation change (ICESat),Active,Bindschadler3,2129
+269,-80.73,-125.57,0,Surface elevation change (ICESat),Active,Bindschadler4,2178
+270,-80.57,-122.63,0,Surface elevation change (ICESat),Active,Bindschadler6,2189
+271,-80.34,152.19,0,Surface elevation change (ICESat),Active,ByrdS1,1423
+272,-80.76,149.53,0,Surface elevation change (ICESat),Active,ByrdS2,1903
+273,-81.80,149.61,0,Surface elevation change (ICESat),Active,ByrdS3,1433
+274,-80.75,143.71,0,Surface elevation change (ICESat),Active,ByrdS4,2533
+275,-80.58,143.38,0,Surface elevation change (ICESat),Active,ByrdS5,2726
+276,-80.32,143.66,0,Surface elevation change (ICESat),Active,ByrdS6,2466
+277,-80.03,143.74,0,Surface elevation change (ICESat),Active,ByrdS7,2612
+278,-80.01,142.41,0,Surface elevation change (ICESat),Active,ByrdS8,2695
+279,-81.47,142.31,0,Surface elevation change (ICESat),Active,ByrdS9,2389
+280,-81.83,139.03,0,Surface elevation change (ICESat),Active,ByrdS10,2467
+281,-81.47,138.59,0,Surface elevation change (ICESat),Active,ByrdS11,2750
+282,-80.90,138.24,0,Surface elevation change (ICESat),Active,ByrdS12,2741
+283,-78.93,142.83,0,Surface elevation change (ICESat),Active,ByrdS13,2860
+284,-78.83,139.79,0,Surface elevation change (ICESat),Active,ByrdS14,2903
+285,-78.81,138.96,0,Surface elevation change (ICESat),Active,ByrdS15,2903
+286,-71.87,155.34,0,Surface elevation change (ICESat),Active,CookE1,2766
+287,-72.80,155.79,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2011-2017); SPOT5 (2012) and ASTER (2006) DEMs,Active,CookE2,2679
+288,-69.66,149.71,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,CookW1 (Ninnis1),2097
+289,-70.84,149.38,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,CookW2 (Ninnis2),2781
+290,-75.27,157.21,0,Surface elevation change (ICESat),Active,David1,1820
+291,-75.33,155.52,0,Surface elevation change (ICESat),Active,David2,1933
+292,-75.24,152.92,0,Surface elevation change (ICESat),Active,David3,2299
+293,-75.73,152.25,0,Surface elevation change (ICESat),Active,David4,2144
+294,-74.88,152.46,0,Surface elevation change (ICESat),Active,David5,2273
+295,-75.39,145.24,0,Surface elevation change (ICESat),Active,David6,3320
+296,-85.84,140.64,0,Surface elevation change (ICESat),Active,EAP1,2728
+297,-85.68,135.48,0,Surface elevation change (ICESat),Active,EAP2,2772
+298,-85.90,132.80,0,Surface elevation change (ICESat),Active,EAP3,2952
+299,-85.91,128.37,0,Surface elevation change (ICESat),Active,EAP4,3032
+300,-85.66,124.42,0,Surface elevation change (ICESat),Active,EAP5,2904
+301,-85.49,104.04,0,Surface elevation change (ICESat),Active,EAP6,3190
+302,-83.97,122.44,0,Surface elevation change (ICESat),Active,EAP7,3315
+303,-75.19,109.85,0,Surface elevation change (ICESat),Active,EAP8,3612
+304,-75.81,135.56,0,Surface elevation change (ICESat),Active,EAP9,3584
+305,-84.52,-73.66,0,Surface elevation change (ICESat),Active,Foundation1 (Foundation N1),1197
+306,-84.98,-73.97,0,Surface elevation change (ICESat),Active,Foundation2 (Foundation N2),1777
+307,-85.26,-72.79,0,Surface elevation change (ICESat),Active,Foundation3 (Foundation N3),1601
+308,-82.13,-74.49,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2013-2016),Active,InstituteE1,
+309,-82.63,-79.01,0,Surface elevation change (ICESat),Active,InstituteE2,2044
+310,-81.40,-77.55,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2013-2016),Active,InstituteW1,1754
+311,-81.63,-83.58,0,Surface elevation change (ICESat),Active,InstituteW2,1495
+312,-81.95,-140.40,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,Kamb Trunk1,930
+313,-82.01,-131.20,0,Surface elevation change (ICESat),Active,Kamb1,1396
+314,-82.19,-129.84,0,Surface elevation change (ICESat),Active,Kamb2,1709
+315,-81.94,-127.84,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2015),Active,Kamb34,1653
+316,-82.27,-127.48,0,Surface elevation change (ICESat),Active,Kamb5,1748
+317,-82.06,-124.34,0,Surface elevation change (ICESat),Active,Kamb6,2097
+318,-81.92,-123.44,0,Surface elevation change (ICESat),Active,Kamb7,2243
+319,-82.38,-123.14,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2015),Active,Kamb8,1971
+320,-82.32,-121.63,0,Surface elevation change (ICESat),Active,Kamb9,2019
+321,-81.25,-120.14,0,Surface elevation change (ICESat),Active,Kamb11,2489
+322,-80.85,-117.08,0,Surface elevation change (ICESat),Active,Kamb12,2847
+323,-74.00,68.28,0,Surface elevation change (ICESat),Active,Lambert1,1873
+324,-84.77,157.12,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,Lennox-King1,1217
+325,-79.95,-145.36,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,MacAyeal1/Mac1,994
+326,-79.83,-144.08,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,MacAyeal2/Mac2,1019
+327,-78.68,-132.66,0,Surface elevation change: ICESat (2003-2008),Active,MacAyeal4,2094
+328,-78.09,149.11,0,Surface elevation change (ICESat),Active,Mulock1,2766
+329,-70.89,144.27,0,Surface elevation change (ICESat),Active,Ninnis1,3169
+330,-83.49,150.28,0,Surface elevation change (ICESat),Active,Nimrod1,1980
+331,-84.33,141.00,0,Surface elevation change (ICESat),Active,Nimrod2,3300
+332,-81.35,-128.44,0,Surface elevation change (ICESat),Active,Raymond1,1296
+333,-81.15,-29.08,0,Surface elevation change (ICESat),Active,Recovery1,638
+334,-81.32,-27.17,0,Surface elevation change (ICESat),Active,Recovery2,695
+335,-80.91,-24.12,0,Surface elevation change (ICESat),Active,Recovery3,581
+336,-81.32,-20.05,0,Surface elevation change (ICESat),Active,Recovery4,1320
+337,-81.28,-9.61,0,Surface elevation change (ICESat),Active,Recovery5,2054
+338,-81.43,-7.24,0,Surface elevation change (ICESat),Active,Recovery6,2092
+339,-81.64,-5.98,0,Surface elevation change (ICESat),Active,Recovery7,2141
+340,-81.80,-4.12,0,Surface elevation change (ICESat),Active,Recovery8,2250
+341,-82.91,2.34,0,Surface elevation change (ICESat),Active,Recovery9,2375
+342,-83.50,5.94,0,Surface elevation change (ICESat),Active,Recovery10,2455
+343,-81.72,8.42,0,Surface elevation change (ICESat),Active,Recovery11,2651
+344,-78.18,-84.17,0,Surface elevation change (ICESat),Active,Rutford1,1151
+345,-80.04,-25.27,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2013-2016),Active,Slessor1,293
+346,-79.84,-21.56,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2013-2016),Active,Slessor23,1218
+347,-79.34,-17.09,0,Surface elevation change (ICESat),Active,Slessor4,1847
+348,-79.20,-17.04,0,Surface elevation change (ICESat),Active,Slessor5,2022
+349,-78.77,-14.30,0,Surface elevation change (ICESat),Active,Slessor6,1904
+350,-79.25,-11.05,0,Surface elevation change (ICESat),Active,Slessor7,1976
+351,-70.10,107.50,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Totten1,2455
+352,-70.83,110.51,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Totten2,3942
+353,-77.17,106.83,0,Surface elevation change (ICESat),Active,Vostok1,3739
+354,-84.09,-146.07,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Whillans5 (USLC),895
+355,-83.85,-136.91,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Whillans6,1358
+356,-83.24,-133.01,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Whillans7,1047
+357,-83.50,-113.60,0,Surface elevation change (ICESat),Active,Whillans8,2784
+358,-68.81,106.72,0,Surface elevation change: ICESat (2003-2009) + CryoSat-2 (2010-2016),Active,Wilkes1,3245
+359,-68.70,121.57,0,Surface elevation change (ICESat),Active,Wilkes2,2132
+360,-82.00,11.65,0,,Stable,,
+361,-80.02,-142.81,0,Surface elevation change: ICESat (2003-2008) + CryoSat-2 (2010-2016),Active,Mac3,
+362,-70.43,130.40,1,,Stable,R03Wa_1,3910
+363,-79.74,-139.00,0,Ice surface elevation change (ICESat),Active,Mac4,
+364,-71.62,135.01,1,,Stable,R04Ea_9,2790
+365,-79.64,-139.11,0,Ice surface elevation change (ICESat),Active,Mac5,1141
+366,-71.67,128.12,1,,Stable,R05Ea_4,3284
+367,-71.84,129.05,1,,Stable,R05Ea_5,3750
+368,-72.88,127.04,1,,Stable,R06Wa_4,3869
+369,-73.44,126.02,1,,Stable,R07Ea_9,3707
+370,-73.81,125.66,1,,Stable,R07Ta_1,3644
+371,-74.29,122.59,1,,Stable,R08Wa_0.1,3745
+372,-74.30,122.50,1,,Stable,R08Wa_0.2,3709
+373,-75.98,106.05,1,,Stable,R13Ea_8,3521
+374,-74.08,100.82,1,,Stable,R15Ea_4,3523
+375,-67.80,112.54,0,,Active,“Site A”,
+376,-67.87,113.53,0,,Active,“Site B”,
+377,-67.84,114.04,0,,Active,“Site C”,
+378,-73.46,8.11,1,RES,Stable,,
+379,-73.47,8.10,1,RES,Stable,,
+380,-73.53,8.23,1,RES,Stable,,
+381,-73.27,12.43,1,RES,Stable,,
+382,-73.53,7.25,1,RES,Stable,,
+383,-73.81,10.91,1,RES,Stable,,
+384,-73.41,16.21,1,RES,Stable,,
+385,-74.18,-2.90,1,RES,Stable,,
+386,-74.25,8.01,1,RES,Stable,,
+387,-74.09,10.31,1,RES,Stable,,
+388,-74.25,7.27,1,RES,Stable,,
+389,-74.37,9.98,1,RES,Stable,,
+390,-74.85,-6.09,1,RES,Stable,,
+391,-75.16,-6.82,1,RES,Stable,,
+392,-75.37,-9.37,1,RES,Stable,,
+393,-75.58,-6.97,1,RES,Stable,,
+394,-75.56,-6.57,1,RES,Stable,,
+395,-75.56,-6.61,1,RES,Stable,,
+396,-75.56,-9.00,1,RES,Stable,,
+397,-75.70,-5.01,1,RES,Stable,,
+398,-75.70,-4.90,1,RES,Stable,,
+399,-76.49,10.45,1,RES,Stable,,
+400,-77.14,-12.07,1,RES,Stable,,
+401,-77.11,-13.90,1,RES,Stable,,
+402,-73.26,41.93,1,RES,Stable,,
+403,-77.48,-18.89,1,RES,Stable,,
+404,-78.32,-15.00,1,RES,Stable,,
+405,-76.81,32.21,1,RES,Stable,,
+406,-78.11,34.14,1,RES,Stable,,
+407,-88.16,60.29,1,RES,Stable,,
+408,-73.13,93.34,1,RES,Stable,,
+409,-76.83,118.12,1,RES,Stable,,
+410,-75.93,121.09,1,RES,Stable,,
+411,-75.58,122.14,1,RES,Stable,,
+412,-74.56,130.56,1,RES,Stable,,
+413,-73.24,154.80,1,RES,Stable,,
+414,-79.71,71.96,1,RES,Stable,,3014
+415,-83.94,66.75,1,RES,Stable,,3088
+416,-80.79,71.28,1,RES,Stable,,3349
+417,-82.89,69.45,1,RES,Stable,,3328
+418,-81.67,70.99,1,RES,Stable,,2487
+419,-83.16,69.42,1,RES,Stable,,2919
+420,-82.95,69.74,1,RES,Stable,,3248
+421,-82.97,69.70,1,RES,Stable,,3208
+422,-83.15,69.82,1,RES,Stable,,2960
+423,-83.04,69.98,1,RES,Stable,,3141
+424,-83.06,69.94,1,RES,Stable,,3096
+425,-83.18,70.15,1,RES,Stable,,2927
+426,-82.32,71.25,1,RES,Stable,,2720
+427,-83.42,70.20,1,RES,Stable,,2461
+428,-83.24,70.46,1,RES,Stable,,2871
+429,-83.31,70.75,1,RES,Stable,,2699
+430,-83.26,70.82,1,RES,Stable,,2740
+431,-82.88,71.30,1,RES,Stable,,3287
+432,-82.99,71.54,1,RES,Stable,,3192
+433,-82.97,71.55,1,RES,Stable,,3225
+434,-81.72,72.83,1,RES,Stable,,2934
+435,-80.85,73.51,1,RES,Stable,,3143
+436,-79.90,74.11,1,RES,Stable,,3207
+437,-83.09,71.79,1,RES,Stable,,3065
+438,-83.00,72.26,1,RES,Stable,,3156
+439,-80.86,74.06,1,RES,Stable,,3272
+440,-83.21,72.41,1,RES,Stable,,2881
+441,-79.95,75.11,1,RES,Stable,,2995
+442,-82.23,74.03,1,RES,Stable,,3297
+443,-82.18,74.06,1,RES,Stable,,3279
+444,-82.40,74.23,1,RES,Stable,,2906
+445,-82.50,74.16,1,RES,Stable,,2776
+446,-82.26,74.33,1,RES,Stable,,3150
+447,-82.40,74.58,1,RES,Stable,,2914
+448,-82.34,74.62,1,RES,Stable,,3038
+449,-83.00,74.48,1,RES,Stable,,2806
+450,-82.47,74.87,1,RES,Stable,,2793
+451,-82.45,74.88,1,RES,Stable,,2821
+452,-81.00,75.99,1,RES,Stable,,3080
+453,-82.29,76.99,1,RES,Stable,,2974
+454,-81.80,77.17,1,RES,Stable,,3058
+455,-82.35,77.64,1,RES,Stable,,2795
+456,-82.43,77.96,1,RES,Stable,,2421
+457,-82.41,77.97,1,RES,Stable,,2457
+458,-82.40,77.97,1,RES,Stable,,2564
+459,-82.55,78.27,1,RES,Stable,,2164
+460,-82.51,78.28,1,RES,Stable,,2267
+461,-82.49,78.29,1,RES,Stable,,2327
+462,-82.45,78.30,1,RES,Stable,,2359
+463,-81.26,78.53,1,RES,Stable,,3030
+464,-81.91,79.36,1,RES,Stable,,3038
+465,-83.70,79.60,1,RES,Stable,,3375
+466,-81.82,80.00,1,RES,Stable,,3244
+467,-80.33,80.00,1,RES,Stable,,3209
+468,-81.75,80.31,1,RES,Stable,,3332
+469,-81.78,80.31,1,RES,Stable,,3312
+470,-82.89,80.72,1,RES,Stable,,3275
+471,-81.74,80.94,1,RES,Stable,,3307
+472,-80.68,80.83,1,RES,Stable,,3582
+473,-80.28,80.80,1,RES,Stable,,3424
+474,-83.67,80.80,1,RES,Stable,,3340
+475,-82.80,81.43,1,RES,Stable,,3151
+476,-80.63,81.10,1,RES,Stable,,3547
+477,-80.30,81.07,1,RES,Stable,,3423
+478,-82.15,81.64,1,RES,Stable,,2787
+479,-82.12,81.96,1,RES,Stable,,2861
+480,-82.11,81.96,1,RES,Stable,,2842
+481,-81.95,81.92,1,RES,Stable,,3130
+482,-82.01,81.93,1,RES,Stable,,3021
+483,-82.02,81.94,1,RES,Stable,,2990
+484,-81.57,81.84,1,RES,Stable,,3434
+485,-81.58,81.84,1,RES,Stable,,3425
+486,-82.70,82.47,1,RES,Stable,,2891
+487,-81.54,82.14,1,RES,Stable,,3447
+488,-79.88,81.79,1,RES,Stable,,2999
+489,-81.41,82.70,1,RES,Stable,,3546
+490,-81.38,82.99,1,RES,Stable,,3536
+491,-81.51,84.56,1,RES,Stable,,3356
+492,-80.91,84.26,1,RES,Stable,,3577
+493,-81.52,84.87,1,RES,Stable,,3321
+494,-83.25,69.33,1,RES,Stable,,2848
+495,-83.28,70.75,1,RES,Stable,,2739
+496,-83.28,71.04,1,RES,Stable,,2767
+497,-82.95,69.70,1,RES,Stable,,3261
+498,-82.99,71.47,1,RES,Stable,,3176
+499,-83.00,72.23,1,RES,Stable,,3161
+500,-83.06,80.97,1,RES,Stable,,3316
+501,-82.40,72.72,1,RES,Stable,,2962
+502,-82.42,74.39,1,RES,Stable,,2932
+503,-82.43,74.72,1,RES,Stable,,2899
+504,-82.43,74.78,1,RES,Stable,,2873
+505,-82.45,78.24,1,RES,Stable,,2343
+506,-82.45,78.28,1,RES,Stable,,2373
+507,-82.45,78.16,1,RES,Stable,,2332
+508,-82.45,78.13,1,RES,Stable,,2329
+509,-82.45,78.11,1,RES,Stable,,2339
+510,-82.45,78.07,1,RES,Stable,,2325
+511,-82.45,78.04,1,RES,Stable,,2310
+512,-82.15,81.56,1,RES,Stable,,2765
+513,-82.15,81.63,1,RES,Stable,,2799
+514,-82.15,81.78,1,RES,Stable,,2779
+515,-81.54,82.12,1,RES,Stable,,3431
+516,-81.52,84.89,1,RES,Stable,,3324
+517,-80.91,84.27,1,RES,Stable,,3548
+518,-80.64,81.02,1,RES,Stable,,3542
+519,-65.36,-62.46,0,Ice-surface elevation change,Active ,Crane Glacier,~1000
+520,-73.46,80.64,2,"Flat ice-surface expression, and later confirmed by RES",Stable,PEL lake,
+521,-79.58,-93.80,1,RES,Fuzzy,SL1,2609
+522,-80.36,-92.85,1,RES,Fuzzy,SL2,1584
+523,-80.40,-92.81,1,RES,Fuzzy,SL3,1657
+524,-80.47,-92.71,1,RES,Definite,SL4,2120
+525,-80.62,-95.00,1,RES,Indistinct,SL5,2950
+526,-80.41,-101.46,1,RES,Dim,SL6,3033
+527,-79.85,-91.84,1,RES,Fuzzy,SL7,1887
+528,-80.24,-90.28,1,RES,Fuzzy,SL8,2188
+529,-80.16,-90.50,1,RES,Fuzzy,SL9,1853
+530,-80.18,-91.01,1,RES,Fuzzy,SL10,1660
+531,-80.34,-95.50,1,RES,Dim,SL11,3719
+532,-80.41,-98.22,1,RES,Fuzzy,SL12,1822
+533,-78.90,-91.48,1,RES,Definite,SL13,3043
+534,-79.25,-91.02,1,RES,Definite,SL14,3131
+535,-79.65,-90.02,1,RES,Dim,SL15,1985
+536,-78.92,-88.39,1,RES,Fuzzy,SL16,2357
+537,-79.36,-92.33,1,RES,Fuzzy,SL17,2056
+538,-79.25,-90.11,1,RES,Dim,SL18,2248
+539,-79.36,-89.26,1,RES,Fuzzy,SL19,2078
+540,-79.21,-89.51,1,RES,Fuzzy,SL20,2725
+541,-76.60,-95.91,1,RES,Fuzzy,SL21,2086
+542,-76.59,-91.58,1,RES,Fuzzy,SL22,1789
+543,-77.08,-92.16,1,RES,Fuzzy,SL23,2414
+544,-77.17,-92.06,1,RES,Fuzzy,SL24,2543
+545,-77.31,-91.92,1,RES,Definite,SL25,2666
+546,-76.98,-91.16,1,RES,Fuzzy,SL26,2378
+547,-78.14,-90.97,1,RES,Fuzzy,SL27,2804
+548,-78.55,-90.02,1,RES,Definite,SL28,1203
+549,-79.02,-100.69,1,RES,Fuzzy,SL29,2842
+550,-79.75,-95.20,1,RES,Definite,SL30,3012
+551,-79.19,-90.61,1,RES,Definite,SL31,1215
+552,-79.2414,-89.8362,1,RES,Fuzzy,SL32,2438
+553,-79.1712,-89.6748,1,RES,Dim,SL33,2693
+554,-82.32,-148.02,0,Surface elevation change: ICESat (2003-2008) and  CryoSat-2 (2010-2016),Active,KT2,
+555,-82.47,-150.59,0,Surface elevation change: ICESat (2003-2008) and  CryoSat-2 (2010-2016),Active,KT3,
+556,-82.20,132.00,1,RES,Stable,,
+557,-82.20,131.00,1,RES,Stable,,
+558,-82.20,130.00,1,RES,Stable,,
+559,-76.87,-106.00,0,Surface elevation change (CryoSat-2),Active,THW170,2570
+560,-76.62,-106.19,0,Surface elevation change (CryoSat-2),Active,THW142,2390
+561,-76.46,-106.89,0,Surface elevation change (CryoSat-2),Active,THW124,2345
+562,-75.99,-107.02,0,Surface elevation change (CryoSat-2),Active,THW70,2210
+563,-77.30,-114.00,0,Surface elevation change (CryoSat-2),Active,WT,
+564,-75.90,-111.00,0,Surface elevation change (CryoSat-2),Active,HG,
+565,-75.246014,121.88436,1,RES,Stable,OIA-2,3095
+566,-75.675657,123.593146,1,RES,Stable,OIA-3,3115.2
+567,-75.080903,121.810835,1,RES,Stable,OIA-5,3112.6
+568,-75.233756,122.453929,1,RES,Stable,OIA-6,3045.3
+569,-75.087244,121.654908,1,RES,Stable,OIA-7,3009.9
+570,-75.456746,122.140664,1,RES,Stable,OIA-8a,3180.3
+571,-75.619276,123.127948,1,RES,Stable,OIA-9,3121.4
+572,-75.130024,121.548357,1,RES,Stable,OIA-10,3406.8
+573,-75.61595,123.133438,1,RES,Stable,OIA-11,3123.2
+574,-75.086494,124.399236,1,RES,Stable,OIA-12,3420.7
+575,-75.216932,122.581989,1,RES,Stable,OIA-14,3016.7
+576,-75.172279,124.682073,1,RES,Stable,OIA-15,2943.6
+577,-74.963703,121.996202,1,RES,Stable,OIA-16,3282.3
+578,-75.568894,122.594194,1,RES,Stable,OIA-18,3268.6
+579,-75.621446,123.276807,1,RES,Stable,OIA-20,3064.5
+580,-75.562779,122.207732,1,RES,Stable,OIA-21,3338.2
+581,-75.459019,123.346785,1,RES,Stable,OIA-22,3077.1
+582,-75.589258,123.171861,1,RES,Stable,OIA-23,3050.3
+583,-75.551045,122.434595,1,RES,Stable,OIA-24,3088.6
+584,-75.280397,121.783269,1,RES,Stable,OIA-25,3348.9
+585,-75.624447,122.666703,1,RES,Stable,OIA-26,3167.8
+586,-75.340496,122.786115,1,RES,Stable,OIA-27,3134.3
+587,-74.958684,123.352955,1,RES,Stable,OIA-28,3394.2
+588,-75.119506,121.74684,1,RES,Stable,OIA-29a,3005.4
+589,-75.125786,123.691988,1,RES,Stable,OIA-30,3276.4
+590,-75.536071,122.572253,1,RES,Stable,OIA-31,3261.3
+591,-75.113962,121.519905,1,RES,Stable,OIA-32,3375.6
+592,-75.194976,122.334225,1,RES,Stable,OIA-33,3045.1
+593,-74.975226,121.421198,1,RES,Stable,OIA-35,3430.5
+594,-75.140778,121.288577,1,RES,Stable,OIA-36,3142.4
+595,-75.442592,122.479446,1,RES,Stable,OIA-37,3009.2
+596,-75.133199,121.967602,1,RES,Stable,OIA-38,3098.3
+597,-75.516153,122.428214,1,RES,Stable,OIA-39,3197.7
+598,-75.162561,121.876672,1,RES,Stable,OIA-40,2962.5
+599,-75.505772,122.764761,1,RES,Stable,OIA-41,2978.6
+600,-75.05946,121.39999,1,RES,Stable,OIA-42,3307.7
+601,-75.610649,123.467362,1,RES,Stable,OIA-43,3113.2
+602,-75.570961,123.019532,1,RES,Stable,OIA-44,3078.2
+603,-75.643229,123.301436,1,RES,Stable,OIA-45,3085.3
+604,-75.250303,122.685252,1,RES,Stable,OIA-46,3147.7
+605,-75.089892,121.433417,1,RES,Stable,OIA-47,3298
+606,-75.121735,122.289803,1,RES,Stable,OIA-48,3157.1
+607,-74.939149,121.922923,1,RES,Stable,OIA-49,3415.6
+608,-75.019372,122.15927,1,RES,Stable,OIA-34b,3171.9
+609,-75.35931,122.946945,1,RES,Stable,OIA-50,2964.8
+610,-75.043754,124.25868,1,RES,Stable,OIA-51,3464.4
+611,-75.456286,122.04815,1,RES,Stable,OIA-8b,3175
+612,-75.119539,121.713422,1,RES,Stable,OIA-29b,3033.2
+613,-75.378643,123.089183,1,RES,Stable,OIA-52,3133.4
+614,-75.249666,122.061955,1,RES,Stable,OIA-53,2875.3
+615,-75.096993,121.513155,1,RES,Stable,OIA-54,3416.4
+616,-79.23,-87.56667,3,RES,Stable,Lago Subglacial CECs,2653
+617,-83.286,71.953,1,RES,Stable,AGAP1,2710
+618,-82.958,71.574,1,RES,Stable,AGAP2,3220
+619,-82.889,71.655,1,RES,Stable,AGAP3,3300
+620,-82.039,72.539,1,RES,Stable,AGAP4,2630
+621,-79.905,74.108,1,RES,Stable,AGAP5,3180
+622,-82.226,74.262,1,RES,Stable,AGAP6,3240
+623,-83.04,69.976,1,RES,Stable,AGAP7,3240
+624,-83.063,69.944,1,RES,Stable,AGAP8,3200
+625,-83.101,69.887,1,RES,Stable,AGAP9,3140
+626,-83.148,69.82,1,RES,Stable,AGAP10,3070
+627,-81.327,77.917,1,RES,Stable,AGAP11,3770
+628,-80.33,80,1,RES,Stable,AGAP12,3120
+629,-80.302,81.065,1,RES,Stable,AGAP13,3380
+630,-79.898,71.225,1,RES,Stable,AGAP14,3340
+631,-80.945,71.626,1,RES,Stable,AGAP15,3010
+632,-79.966,59.445,1,RES,Stable,AGAP16,3450
+633,-82.396,72.712,1,RES,Stable,AGAP17,3020
+634,-82.42,74.359,1,RES,Stable,AGAP18,2980
+635,-82.425,80.683,1,RES,Stable,AGAP19,2970
+636,-80.964,65.507,1,RES,Stable,AGAP20,3840
+637,-80.28,80.796,1,RES,Stable,AGAP21,3480
+638,-80.424,80.808,1,RES,Stable,AGAP22,3440
+639,-80.678,80.83,1,RES,Stable,AGAP23,3630
+640,-82.263,74.335,1,RES,Stable,AGAP24,3240
+641,-82.399,74.234,1,RES,Stable,AGAP25,2980
+642,-80.791,74.107,1,RES,Stable,AGAP26,3380
+643,-83.231,70.463,1,RES,Stable,AGAP27,2890
+644,-83.206,72.414,1,RES,Stable,AGAP28,2940
+645,-82.118,81.959,1,RES,Stable,AGAP29,2920
+646,-81.947,81.918,1,RES,Stable,AGAP30,3210
+647,-81.584,81.837,1,RES,Stable,AGAP31,3500
+648,-81.574,81.835,1,RES,Stable,AGAP32,3510
+649,-82.407,72.042,1,RES,Stable,AGAP33,2760
+650,-80.37,66.11,1,RES,Stable,AGAP34,3381
+651,-80.34,65.57,1,RES,Stable,AGAP35,3371
+652,-80.30,64.62,1,RES,Stable,AGAP36,3156
+653,-83.40,70.23,1,RES,Stable,AGAP37,2180
+654,-83.21,70.50,1,RES,Stable,AGAP38,2641
+655,-82.95,71.95,1,RES,Stable,AGAP39,2873
+656,-82.46,74.19,1,RES,Stable,AGAP40,2667
+657,-82.48,75.20,1,RES,Stable,AGAP41,2265
+658,-82.26,80.33,1,RES,Stable,AGAP42,2082
+659,-81.72,80.32,1,RES,Stable,AGAP43,2872
+660,-80.33,81.07,1,RES,Stable,AGAP44,3201
+661,-79.79,77.97,1,RES,Stable,AGAP45,3115
+662,-79.42,78.53,1,RES,Stable,AGAP46,3896
+663,-76.798,-118.755,1,RES,Stable,Marie Byrd1,2480
+664,-77.997,-122.025,1,RES,Stable,Marie Byrd2,3080
+665,-73.507,160.214,1,RES,Stable,Victoria1,1770
+666,-72.625,159.094,1,RES,Stable,Victoria2,2190
+667,-77.837,156.101,1,RES,Stable,Victoria3,1990
+668,-79.059,149.606,1,RES,Stable,Victoria4,2330
+669,-75.021,131.549,1,RES,Stable,Adventure Trench Lake2,3380
+670,-74.883,128.163,1,RES,Stable,Adventure Trench Lake3,3030
+671,-75.403,121.3,1,RES,Stable,Vincennes Lake2,3020
+672,-75.532,121.595,1,RES,Stable,Vincennes Lake3,3360
+673,-75.716,120.642,1,RES,Stable,Vincennes Lake4,3550
+674,-78.538,107.297,1,RES,Stable,LVS-15,3640
+675,-87.98,115.535,1,RES,Stable,South Pole Lake2,3170
+676,-73.412372,80.579208,1,RES,Stable,Lake Snow Eagle,3320
